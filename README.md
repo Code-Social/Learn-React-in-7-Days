@@ -1,5 +1,7 @@
 # 🚀 Why Don't You React?: A 7-Day Learning Challenge! 🚀
 
+![React Learning Challenge Banner](react-banner-event.png)
+
 ## Jumpstart Your React Journey with Us!
 
 From June 2nd to 8th, join Code Social for a thrilling week-long React learning challenge. Whether you're a beginner or looking to polish your skills, this challenge is crafted for you!
@@ -25,7 +27,7 @@ Complete the challenge and flaunt your React knowledge on social media using #Re
 
 ## How to Register:
 
-1. **Join the Challenge**: Click on the registration link provided.
+1. **Join the Challenge**: Click on the [registration link](https://bit.ly/CS-react) provided. 
 2. **Connect on Social Media**: Follow us for updates, tips, and community highlights. Visit [bio.link/codesocial](https://bio.link/codesocial) and hit that follow button!
 3. **Stay Updated**: Join our Discord to receive all the latest details and registration information.
 
@@ -33,7 +35,7 @@ Don't miss this opportunity to boost your React skills and connect with like-min
 
 ## Challenge Steps:
 
-1. **Register for the Challenge**: Click on the registration link provided.
+1. **Register for the Challenge**: Click on the [registration link](https://bit.ly/CS-react) provided. 
 2. **Connect on Social Media**: Follow us for updates, tips, and highlights.
 3. **Daily Checkpoints**: Each day, you'll receive tasks and learning objectives. Utilize the provided resources and feel free to use your own as well.
 4. **Complete Daily Tasks**: Dive into the tasks and apply your new knowledge.
